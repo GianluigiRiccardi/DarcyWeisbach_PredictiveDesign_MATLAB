@@ -1,7 +1,7 @@
 # Darcy–Weisbach Predictive Design – MATLAB Simulation  
 
 **Author:** Gianluigi Riccardi  
-**Copyright © 2025 – ReliaVib Initiative**  
+**2025 – ReliaVib Initiative**  
 **Tools:** MATLAB R2024b | Simulink  
 
 ---
