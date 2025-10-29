@@ -17,8 +17,7 @@ The **Darcy–Weisbach equation** was implemented in MATLAB to analyze head loss
 
 ## 🔹 Equation  
 
-<img src="https://render.githubusercontent.com/render/math?math=h_f = f \cdot \frac{L}{D} \cdot \frac{v^2}{2g}" alt="Darcy–Weisbach equation">
-``` :contentReference[oaicite:3]{index=3}  
+<img src="https://render.githubusercontent.com/render/math?math=h_f%20=%20f%20\cdot%20\frac{L}{D}%20\cdot%20\frac{v^2}{2g}" alt="Darcy–Weisbach Equation" width="400"/>
 
 where:  
 - **hₓ** – head loss [m]  
@@ -42,7 +41,8 @@ where:
 ---
 
 ## 🔹 MATLAB Results  
-![Simulation results](results.png)
+
+![Simulation Results](assets/results.png)
 
 ```matlab
 >> Darcy_Weisbach_Simulation
