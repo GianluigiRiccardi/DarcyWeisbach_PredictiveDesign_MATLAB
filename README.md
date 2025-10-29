@@ -1,3 +1,6 @@
+![MATLAB](https://img.shields.io/badge/MATLAB-R2024b-blue?logo=mathworks&style=for-the-badge)
+![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 # Darcy–Weisbach Predictive Design – MATLAB Simulation  
 
 **Author:** Gianluigi Riccardi  
@@ -14,9 +17,8 @@ The **Darcy–Weisbach equation** was implemented in MATLAB to analyze head loss
 
 ## 🔹 Equation  
 
-\[
-h_f = f \cdot \frac{L}{D} \cdot \frac{v^2}{2g}
-\]
+<img src="https://render.githubusercontent.com/render/math?math=h_f = f \cdot \frac{L}{D} \cdot \frac{v^2}{2g}" alt="Darcy–Weisbach equation">
+``` :contentReference[oaicite:3]{index=3}  
 
 where:  
 - **hₓ** – head loss [m]  
@@ -40,6 +42,7 @@ where:
 ---
 
 ## 🔹 MATLAB Results  
+![Simulation results](results.png)
 
 ```matlab
 >> Darcy_Weisbach_Simulation
